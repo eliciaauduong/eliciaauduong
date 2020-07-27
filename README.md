@@ -1,5 +1,16 @@
-### Hi there 👋
+### Hey 👋, it's Elicia.
 
+* 2nd year Commerce / Computer Science student 🤗 at UNSW
+* Major in Business Strategy and Economic Management
+* Information Technology Executive for 💻 [UNSW Women in Technology](https://unswwit.com/#/)
+* Brand Designer for 🏎 [UNSW Redback Racing](https://www.redbackracing.com/)
+
+---
+
+### 🦋 Stay up to date with what I'm doing!
+* Twitter: https://twitter.com/itseliciaaa/
+* LinkedIn: https://www.linkedin.com/in/eliciaauduong/
+* Medium: https://medium.com/@eliciaauduong
 <!--
 **eliciaauduong/eliciaauduong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
