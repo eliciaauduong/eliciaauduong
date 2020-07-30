@@ -8,7 +8,7 @@
 ---
 
 ### 🦋 Stay up to date with what I'm doing!
-* Twitter: https://twitter.com/itseliciaaa/
+* Twitter: https://twitter.com/eliciaauduong/
 * LinkedIn: https://www.linkedin.com/in/eliciaauduong/
 * Medium: https://medium.com/@eliciaauduong
 <!--
