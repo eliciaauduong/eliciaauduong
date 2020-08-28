@@ -8,9 +8,7 @@
 ---
 
 ### 🦋 Stay up to date with what I'm doing!
-* Twitter: https://twitter.com/eliciaauduong/
-* LinkedIn: https://www.linkedin.com/in/eliciaauduong/
-* Medium: https://medium.com/@eliciaauduong
+* https://eliciaauduong.github.io/link-elicia/
 <!--
 **eliciaauduong/eliciaauduong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
