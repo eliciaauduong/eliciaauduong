@@ -8,7 +8,8 @@
 ---
 
 ### 🦋 Stay up to date with what I'm doing!
-* https://eliciaauduong.github.io/link-elicia/
+* Check out my [personal website](https://eliciaauduong.github.io/blog/)
+* Or follow me on [social media](https://eliciaauduong.github.io/link-elicia/)!
 <!--
 **eliciaauduong/eliciaauduong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
