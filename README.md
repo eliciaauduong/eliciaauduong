@@ -1,4 +1,4 @@
-### Hey 👋, it's Elicia.
+### 👋 Hi, I'm Elicia.
 
 * 2nd year Commerce / Computer Science student 🤗 at UNSW
 * Major in Business Strategy and Economic Management
