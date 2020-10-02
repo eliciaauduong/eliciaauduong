@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Elicia.
+## 👋 Hi, I'm Elicia.
 
 * 2nd year Commerce / Computer Science student 🤗 at UNSW
 * Major in Business Strategy and Economic Management
@@ -9,7 +9,7 @@
 
 ### 🦋 Stay up to date with what I'm doing!
 * Check out my [personal website](https://eliciaauduong.github.io/blog/)
-* Or follow me on [social media](https://eliciaauduong.github.io/link-elicia/)!
+* And follow me on [social media](https://eliciaauduong.github.io/link-elicia/)!
 <!--
 **eliciaauduong/eliciaauduong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
