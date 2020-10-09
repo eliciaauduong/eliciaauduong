@@ -5,6 +5,8 @@
 * Information Technology Executive for 💻 [UNSW Women in Technology](https://unswwit.com/#/)
 * Brand Designer for 🏎 [UNSW Redback Racing](https://www.redbackracing.com/)
 
+[![Elicia's github stats](https://github-readme-stats.vercel.app/api?username=eliciaauduong&count_private=true&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ### 🦋 Stay up to date with what I'm doing!
