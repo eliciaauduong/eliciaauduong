@@ -2,7 +2,7 @@
 
 * 2nd year Commerce / Computer Science student 🤗 at UNSW
 * Major in International Business and Business Economics
-* IT Team Member in 💡[Enactus UNSW](https://enactusunsw.org/)
+* IT Team Member in 💡 [Enactus UNSW](https://enactusunsw.org/)
 * Brand Designer for 🏎 [Redback Racing](https://www.redbackracing.com/)
 
 ## 🦋 Stay up to date with what I'm doing!
