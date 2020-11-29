@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Elicia.
 
 * 2nd year Commerce / Computer Science student 🤗 at UNSW
-* Major in International Business and Business Economics
+* Major in International Business
 * IT Team Member in 💡 [Enactus UNSW](https://enactusunsw.org/)
 * Brand Designer for 🏎 [Redback Racing](https://www.redbackracing.com/)
 
