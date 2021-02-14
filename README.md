@@ -1,12 +1,11 @@
 # 👋 Hi, I'm Elicia.
 
-* 2nd year Commerce / Computer Science student 🤗 at UNSW
+* 3rd year Commerce / Computer Science student 🤗 at UNSW
 * Major in International Business
-* IT Team Member in 💡 [Enactus UNSW](https://enactusunsw.org/)
 * Brand Designer for 🏎 [Redback Racing](https://www.redbackracing.com/)
 
 ## 🦋 Stay up to date with what I'm doing!
-* Check out my [personal website](https://eliciaauduong.github.io/blog/)
+<!--* Check out my [personal website](https://eliciaauduong.github.io/blog/)-->
 * And follow me on [social media](https://eliciaauduong.github.io/link-elicia/)!
 * Want a sneak peek into my thoughts and notes? Check out my [digital garden](https://eliciaauduong.github.io/digital-garden/)
 
