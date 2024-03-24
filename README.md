@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Elicia.
 
-* Final year Commerce / Computer Science student 🤗 at UNSW
-* Major in International Business
-* Design Lead for 🏎 [Redback Racing](https://www.redbackracing.com/)
-
 <!--## 🦋 Stay up to date with what I'm doing!
 * Check out my [personal website](https://eliciaauduong.github.io/blog/)
 * And follow me on [social media](https://eliciaauduong.github.io/link-elicia/)!
